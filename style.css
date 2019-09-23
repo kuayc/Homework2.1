@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+}
+body {
+    background-color: gray;
+}
+.row {
+    background-color:white;
+}
+.row1 {
+    background-color: gray;
+    height: 10%;
+}
+h3 {
+    color:teal;
+    background-color:white;
+}
+img {
+    float: left;
+    height: 100px;
+}
+.img-port {
+    height: 300px;
+}
